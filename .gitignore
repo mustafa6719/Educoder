@@ -16,3 +16,14 @@ Lesson 1/Lesson 1 - Input and Output/Lesson 1 - Input and Output/obj/Debug/net7.
 *.vsidx
 *.sqlite
 *.sqlite
+*.lock
+Lesson 1/Inputs and Outputs/.vs/Inputs and Outputs/v17/.suo
+*.cs
+*.sln
+Lesson 1/Inputs and Outputs/Lesson 1 inputs and Outputs/Inputs and Outputs.csproj
+Lesson 1/Inputs and Outputs/Lesson 1 inputs and Outputs/obj/Debug/net7.0/Inputs and Outputs.AssemblyInfoInputs.cache
+*.cache
+*.editorconfig
+*.json
+Lesson 1/Inputs and Outputs/Lesson 1 inputs and Outputs/obj/Inputs and Outputs.csproj.nuget.g.targets
+*.props
