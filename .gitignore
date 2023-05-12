@@ -30,3 +30,10 @@ Inputs and Outputs/Inputs and Outputs/obj/Inputs and Outputs.csproj.nuget.g.targ
 Inputs and Outputs/Inputs and Outputs/obj/Debug/net7.0/Inputs and Outputs.GlobalUsings.g.cs
 Inputs and Outputs/Inputs and Outputs/obj/Debug/net7.0/Inputs and Outputs.AssemblyInfo.cs
 Inputs and Outputs/Inputs and Outputs/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+*.targets
+DataTypes/DataTypes/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+DataTypes/DataTypes/obj/Debug/net7.0/DataTypes.AssemblyInfo.cs
+DataTypes/DataTypes/obj/Debug/net7.0/DataTypes.GlobalUsings.g.cs
+Inputs and Outputs/.vs/ProjectEvaluation/inputs and outputs.metadata.v6.1
+Inputs and Outputs/.vs/ProjectEvaluation/inputs and outputs.projects.v6.1
+DataTypes/.vs/DataTypes/v17/.suo
