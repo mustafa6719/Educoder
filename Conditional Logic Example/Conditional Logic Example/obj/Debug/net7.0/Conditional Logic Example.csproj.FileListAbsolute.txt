@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\bin\Debug\net7.0\Conditional Logic Example.exe
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\bin\Debug\net7.0\Conditional Logic Example.deps.json
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\bin\Debug\net7.0\Conditional Logic Example.runtimeconfig.json
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\bin\Debug\net7.0\Conditional Logic Example.dll
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\bin\Debug\net7.0\Conditional Logic Example.pdb
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.dll
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\refint\Conditional Logic Example.dll
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.pdb
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\Conditional Logic Example.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Documents\GitHub\Educoder\Conditional Logic Example\Conditional Logic Example\obj\Debug\net7.0\ref\Conditional Logic Example.dll
